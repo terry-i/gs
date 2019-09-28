@@ -1,0 +1,82 @@
+.navbar-header{
+ font-size:30px;
+ background-color: violet;
+}
+
+#name{
+ width:500px;
+ display:inline-block;
+ color:blue;
+}
+
+#email{
+  color:blue;  
+}
+
+#writer{
+    color:blue;
+}
+
+#first{
+    color:blue;
+}
+
+#recommend{
+    color:blue;
+}
+
+#syohyou{
+    color:blue;
+}
+
+#box_name{
+margin-left: 60px;
+}
+
+#box_email{
+    margin-left: 40px;
+}
+
+#box_writer{
+    margin-left:77px;
+}
+
+#box_first{
+    margin-left:20px;
+}
+
+#box_recommend{
+    margin-left:29px;
+}
+
+#box_memo{
+    margin-left:0px;
+}
+
+#memo{
+    text-align:end;
+}
+
+p#syohyou{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#send{
+    font-size: 18px;
+}
+
+.enter{
+    border:2px solid black;
+}
+.enter td{
+    border:2px solid black;
+}
+
+.enter td:first-child{
+  width:20px;
+}
+
+.enter td:second-child{
+  width:50px;
+}
