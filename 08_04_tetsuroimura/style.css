@@ -1,0 +1,115 @@
+.navbar-header{
+ font-size:30px;
+ background-color: violet;
+}
+
+.navbar-brand{
+ font-family: serif;
+ font-size: 30px;
+ color:blue;
+
+}
+
+#name{
+ width:500px;
+ display:inline-block;
+ color:blue;
+}
+
+#email{
+  color:blue;  
+}
+
+#writer{
+    color:blue;
+}
+
+#first{
+    color:blue;
+}
+
+#recommend{
+    color:blue;
+}
+
+#syohyou{
+    color:blue;
+}
+
+#box_name{
+margin-left: 60px;
+}
+
+#box_email{
+    margin-left: 40px;
+}
+
+#box_writer{
+    margin-left:77px;
+}
+
+#box_first{
+    margin-left:20px;
+}
+
+#box_recommend{
+    margin-left:29px;
+}
+
+#box_memo{
+    margin-left:0px;
+}
+
+#memo{
+    text-align:end;
+}
+
+p#syohyou{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#send{
+    font-size: 18px;
+}
+
+.enter{
+    border:2px solid black;
+ 
+}
+.enter td{
+    border:2px groove black;
+}
+
+.enter td:first-child{
+background: #fffaf0;
+  width:20px;
+  text-align: right;
+}
+
+.enter td:nth-child(2){
+    background: #fffaf0;
+  width:220px;
+}
+
+.enter td:nth-child(3){
+    background:#fffaf0;
+  width:120px;
+}
+
+.enter td:nth-child(4){
+    background:#fffaf0;
+  width:100px;
+}
+
+.enter td:nth-child(5){
+    background:#ffd700;
+  width:40px;
+  text-align: center;
+}
+
+.enter td:nth-child(6){
+    background:#fffaf0;
+  width:600px;
+  text-align: left;
+}
